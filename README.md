@@ -1,7 +1,10 @@
 
-Evaluation_Project_Customer_Churn_Analysis
-Aim: Building and comparing several customer churn prediction models.
-Problem Statement:
+**Evaluation_Project_Customer_Churn_Analysis**
+
+**Aim: Building and comparing several customer churn prediction models.**
+
+**Problem Statement:
+
 Customer churn is when a company’s customers stop doing business with that company. Businesses are very keen on measuring churn because keeping an existing customer is far less expensive than acquiring a new customer. New business involves working leads through a sales funnel, using marketing and sales budgets to gain additional customers. Existing customers will often have a higher volume of service consumption and can generate additional customer referrals.
 
 Customer retention can be achieved with good customer service and products. But the most effective way for a company to prevent attrition of customers is to truly know them. The vast volumes of data collected about customers can be used to build churn prediction models. Knowing who is most likely to defect means that a company can prioritise focused marketing efforts on that subset of their customer base.
